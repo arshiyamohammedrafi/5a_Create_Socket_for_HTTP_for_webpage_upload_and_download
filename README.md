@@ -13,7 +13,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 <BR>
 4.To send frames to server from the client side.
 <BR>
-5.If your frames reach the server it will send ACK signal to client otherwise it will send NACK signal to client.
+5.If your frames reach the server it will send ACK signal to client otherwise it will send NACK signal to client. 
 <BR>
 6.Stop the program
 <BR>
